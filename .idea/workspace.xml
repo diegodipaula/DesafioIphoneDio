@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ebc85ec-7988-4541-950d-1a4249cf4983" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioIphoneDio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AparelhoTelefonico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NavegadorInternet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReprodutorMusical.java" afterDir="false" />
-    </list>
+    <list default="true" id="4ebc85ec-7988-4541-950d-1a4249cf4983" name="Changes" comment="Commit initial" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,11 +55,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713205268011</updated>
-      <workItem from="1713205269156" duration="855000" />
+      <workItem from="1713205269156" duration="1596000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit initial">
+      <option name="closed" value="true" />
+      <created>1713206381777</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713206381777</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit initial" />
   </component>
 </project>
