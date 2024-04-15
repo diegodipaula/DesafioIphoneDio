@@ -22,6 +22,8 @@ A modelagem UML foi realizada utilizando as seguintes interfaces e classes:
 - `NavegadorInternet`
 - `IPhone` (implementação das interfaces)
 
+A modelagem está disponível no diretório UML em três extênsões: .html, .drawio e .png
+
 ## Implementação em Java
 
 As interfaces e classes foram implementadas em Java, conforme descrito na modelagem UML. Os arquivos Java estão disponíveis no repositório.
